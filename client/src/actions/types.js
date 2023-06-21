@@ -1,0 +1,12 @@
+export default {
+    FETCH_USER :            'fatch_user',
+    ADD_DETAILS:            'ADD_DETAILS',
+    GET_OFFER_OPTIONS:      'GET_OFFER_OPTIONS' ,
+    CHANGE_OFFER_OPTIONS:   'CHANGE_OFFER_OPTIONS',
+    POST_OFFER_FORM:        'POST_OFFER_FORM',
+    CHANGE_DETAILS_OPTIONS: 'CHANGE_DETAILS_OPTIONS',
+    GET_OFFERS:             'GET_OFFERS',
+    GET_OFFER:              'GET_OFFER',
+    UPDATE_OFFER:           'UPDATE_OFFER',
+    DELETE_OFFER:           'DELETE_OFFER'
+}
